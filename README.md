@@ -9,7 +9,28 @@ Repositório destinado a cadeira de Gestão de Processos e Negócios (GPN) da Un
 * [Imagens](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20AS-IS/Imagens)  
 * [Arquivo Bizagi](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20AS-IS/Arquivo%20Bizagi)  
 
-## [piStar](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/piStar)
+### [piStar](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/piStar)
 * [Arquivo piStar](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/piStar/Arquivo%20piStar)
 * [Imagens](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/piStar/Imagens)
 * [Modelo Ishikawa](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/piStar/Modelos%20Ishikawa)
+
+## [Modelo TO-BE]()
+### [Parcial]()
+* [Imagens]()
+* [Arquivo Bizagi]()
+
+### [Total]()
+* [Imagens]()
+* [Arquivo Bizagi]()
+
+### [piStar]()
+#### [Parcial]()
+* [Imagens]()
+* [Arquivo piStar]()
+* [Modelo Ishikawa]()
+
+#### [Total]()
+* [Imagens]()
+* [Arquivo piStar]()
+* [Modelo Ishikawa]()
+
