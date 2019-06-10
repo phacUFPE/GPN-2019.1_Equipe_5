@@ -19,9 +19,9 @@ Repositório destinado a cadeira de Gestão de Processos e Negócios (GPN) da Un
 * [Imagens](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Parcial/Imagens)
 * [Arquivo Bizagi](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Parcial/Arquivo%20Bizagi)
 
-### [Total]()
-* [Imagens]()
-* [Arquivo Bizagi]()
+### [Total](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Total)
+* [Imagens](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Total/Imagens)
+* [Arquivo Bizagi](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Total/Arquivo%20Bizagi)
 
 ### [piStar]()
 #### [Parcial]()
