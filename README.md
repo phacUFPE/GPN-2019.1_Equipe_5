@@ -26,8 +26,11 @@ Repositório destinado a cadeira de Gestão de Processos e Negócios (GPN) da Un
 ### [piStar]()
 #### [Parcial]()
 * [Imagens]()
-* [Arquivo Bizagi]()
+* [Arquivo piStar]()
+* [Modelo Ishikawa]()
 
 #### [Total]()
 * [Imagens]()
-* [Arquivo Bizagi]()
+* [Arquivo piStar]()
+* [Modelo Ishikawa]()
+
