@@ -14,10 +14,10 @@ Repositório destinado a cadeira de Gestão de Processos e Negócios (GPN) da Un
 * [Imagens](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/piStar/Imagens)
 * [Modelo Ishikawa](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/piStar/Modelos%20Ishikawa)
 
-## [Modelo TO-BE]()
-### [Parcial]()
-* [Imagens]()
-* [Arquivo Bizagi]()
+## [Modelo TO-BE](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE)
+### [Parcial](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Parcial)
+* [Imagens](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Parcial/Imagens)
+* [Arquivo Bizagi](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20TO-BE/Parcial/Arquivo%20Bizagi)
 
 ### [Total]()
 * [Imagens]()
