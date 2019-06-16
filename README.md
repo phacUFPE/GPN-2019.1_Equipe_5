@@ -5,6 +5,8 @@ Repositório destinado a cadeira de Gestão de Processos e Negócios (GPN) da Un
 
 ## [Documento](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/blob/master/Documento/Documento.pdf)  
 
+## [Indicadores](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/blob/master/Indicadores/Indicadores.pdf)
+
 ## [Modelo AS-IS](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20AS-IS)  
 * [Imagens](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20AS-IS/Imagens)  
 * [Arquivo Bizagi](https://github.com/phacUFPE/GPN-2019.1_Equipe_5/tree/master/Modelo%20AS-IS/Arquivo%20Bizagi)  
